@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Novy soubor
 zmeneny
+=======
+Novy soubor 123
+>>>>>>> master
